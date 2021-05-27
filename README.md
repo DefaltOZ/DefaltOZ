@@ -1,5 +1,5 @@
 
-                                                                           Welcome 
+Welcome 
 
 - 👋 Hi, I’m zDefalt_
 - 👀 I’m interested in HTML, CSS, PHP or any web language..
